@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "friendsgroup2332.aternos.me",
-    "port": 13494,
+    "ip": "friendsgroup233-eBzt.aternos.me",
+    "port": 36739,
+    "port": ,
     "version": "1.20.1",
     "try-creative": false
   },
